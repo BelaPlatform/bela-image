@@ -1,3 +1,7 @@
+*****
+# WARNING: this repo is no longer maintained. The new repo for Bela image development is https://github.com/BelaPlatform/bela-image-builder and the latest release can be found at https://github.com/BelaPlatform/bela-image-builder/releases/
+******
+
 # bela-image
 Disk images to flash on your BeagleBone Black for use with the Bela cape.
 
